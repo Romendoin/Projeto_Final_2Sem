@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647387799 source:c:\users\rodri\documents\ads\programacaoestruturada\trabalhofinal\trabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funcoes.h"
+
+1647387799 c:\users\rodri\documents\ads\programacaoestruturada\trabalhofinal\trabalhofinal\funcoes.h
+
